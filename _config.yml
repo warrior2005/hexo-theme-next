@@ -330,8 +330,8 @@ reward_settings:
   comment: 求赞赏恰饭
 
 reward:
-  wechatpay: /images/wechatpay.jpg
-  #alipay: /images/alipay.png
+  wechatpay: /images/wechatpay.png
+  alipay: /images/alipay.png
   #bitcoin: /images/bitcoin.png
 
 # Related popular posts
